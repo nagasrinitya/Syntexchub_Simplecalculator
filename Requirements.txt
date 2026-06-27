@@ -1,0 +1,17 @@
+Python 3.8 or higher
+
+Functional Requirements:
+- Accept user input
+- Perform Addition
+- Perform Subtraction
+- Perform Multiplication
+- Perform Division
+- Display result
+- Handle invalid input
+- Handle division by zero
+
+Non-Functional Requirements:
+- Fast execution
+- Accurate calculations
+- Easy to use
+- Easy to maintain
